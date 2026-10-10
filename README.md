@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,flask,postgres,pytorch,sklearn,git&theme=dark" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,pytorch,sklearn,git&theme=dark" alt="Tech stack">
 </p>
 
 ### 📂 Projects
@@ -27,8 +27,5 @@
 - 🥇 "Postal Digital" Hackathon (HSE): 1st place
 - 🎯 "Talent of the Future for the Regions": finalist
 - 🥈 DDNL Case Championship: prize-winner
-- 📘 Yandex Lyceum: Data Analysis program
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=petushok08&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
-</p>
+- 📘 Yandex Lyceum: Data Analysis specialization
+- 🤖 Yandex Lyceum: Machine Learning specialization
